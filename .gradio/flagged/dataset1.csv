@@ -1,0 +1,2 @@
+Upload Skin Image,output,timestamp
+.gradio\flagged\Upload Skin Image\874ae32cfe7c9f56cf0b\GettyImages-114329113_slide-800x728.avif,"{""label"": ""Benign keratosis"", ""confidences"": [{""label"": ""Benign keratosis"", ""confidence"": 0.2019699364900589}, {""label"": ""Basal cell carcinoma"", ""confidence"": 0.15481054782867432}, {""label"": ""Melanoma"", ""confidence"": 0.14468665421009064}]}",2026-01-18 22:59:50.125052
